@@ -1,0 +1,14 @@
+{
+  "distinct_images": 114,
+  "warmups": 5,
+  "measured_passes": 2,
+  "measured_samples": 228,
+  "batch_size": 1,
+  "platform": "Darwin arm64 / Apple M4",
+  "runtime": "OpenCV 4.12.0; ONNX Runtime 1.30.0; CPU; sequential",
+  "visualization_enabled": true,
+  "total_mean_ms": 131.02185874122807,
+  "total_p95_ms": 135.517833,
+  "throughput_images_per_second": 7.632288608883094,
+  "meaning": "Local sequential CPU measurement including visualization; not factory line-rate validation."
+}

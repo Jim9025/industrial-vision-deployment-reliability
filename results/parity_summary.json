@@ -1,0 +1,11 @@
+{
+  "validation": "same-model Python/PyTorch versus C++/ONNX Runtime parity",
+  "provider": "EfficientAD-S",
+  "distinct_images": 114,
+  "decision_agreement": 114,
+  "decision_mismatches": 0,
+  "score_mismatches": 0,
+  "map_mismatches": 0,
+  "max_map_mean_absolute_error": 2.4040435768159696e-05,
+  "meaning": "Cross-runtime consistency at the frozen threshold; not detection accuracy."
+}
